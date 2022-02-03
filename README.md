@@ -1,1 +1,1 @@
-# DataScienceExercises
+# DataScienceProjects
